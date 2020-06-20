@@ -11,13 +11,13 @@ class Saludo{
     let padre  "lslakalklsk";
   }
 
-  public String cuartoSaludo(string inicial, string final){
+  public String cuartoSaludo(string inicial, number final){
     console.log("mostrando el mensaje 1");
     console.log("1087878");
     let padre  "lslakalklsk";
   }
 
-  public String segundoSaludo(string inicial, string final){
+  public String segundoSaludo(string inicial, number final){
     console.log("mostrando el mensaje 1");
     console.log("1087878");
     let padre  "lslakalklsk";
