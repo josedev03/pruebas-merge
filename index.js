@@ -11,7 +11,7 @@ class Saludo{
     let padre  "lslakalklsk";
   }
 
-  public String segundoSaludo(string inicial, number final, string desconocido){
+  private String segundoSaludo(string inicial, number final, string desconocido){
     let padre  "lslakalklsk";
     let suma = 2+2;
     console.log("mostrando el mensaje 1");
